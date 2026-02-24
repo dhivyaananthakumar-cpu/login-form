@@ -35,11 +35,6 @@ login-form/
 ├── style.css
 └── script.js
 🚀 How to Run the Project
-
-Download or clone this repository:
-
-git clone https://github.com/your-username/login-form.git
-
 Open the project folder.
 
 Open index.html in your browser.
